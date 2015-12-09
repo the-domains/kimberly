@@ -1,0 +1,28 @@
+name: kimberly
+favicon: null
+layout_spectrum: 0.8622543157543987
+typography_spectrum: 0.012951181270182133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6830497568007559
+  lightness: 0.2745437859557569
+  saturation: 0.7892034181859344
+  rhythmicContrast: 0.12502926518209279
+purpose: []
